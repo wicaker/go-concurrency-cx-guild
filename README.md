@@ -1,1 +1,1 @@
-This repo is intended to show up go-concurrency duing CX guild
+This repo is intended to show up go-concurrency during CX guild
